@@ -1,7 +1,7 @@
 <!-- Navbar -->
 <nav class="navbar navbar-expand-lg navbar-dark bg-dark fixed-top">
     <div class="container-fluid">
-        <a class="navbar-brand" href="/home.php">🔥 Logo</a>
+        <a class="navbar-brand" href="/LEARNING/">🔥 Logo</a>
         <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarContent">
             <span class="navbar-toggler-icon"></span>
         </button>
@@ -9,9 +9,9 @@
         <div class="collapse navbar-collapse" id="navbarContent">
             <!-- Left links -->
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
-                <li class="nav-item"><a class="nav-link active" href="index.view.php" onclick="loadPage('home')">Home</a></li>
-                <li class="nav-item"><a class="nav-link" href="about.view.php" onclick="loadPage('about')">About</a></li>
-                <li class="nav-item"><a class="nav-link" href="contact.view.php" onclick="loadPage('contact')">Contact</a></li>
+                <li class="nav-item"><a class="nav-link active" href="/LEARNING/" onclick="loadPage('index')">Home</a></li>
+                <li class="nav-item"><a class="nav-link" href="/LEARNING/about" onclick="loadPage('about')">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="/LEARNING/contact" onclick="loadPage('contact')">Contact</a></li>
             </ul>
 
             <!-- Right side -->

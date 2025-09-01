@@ -1,10 +1,9 @@
-    <?php require("./partials/header.php") ?>
-    <?php require("./partials/nav.php") ?>
+<?php require BASE_PATH . '/views/partials/header.php'; ?>
+<?php require BASE_PATH . '/views/partials/nav.php'; ?>
 
-  <!-- Main Content -->
-  <div class="page-content container">
-      <h1 id="page-title">Dashboard</h1>
-      <p id="page-text">Now you are on the About page.</p>
-  </div>
+<div class="page-content container">
+    <h1 id="page-title">Dashboard</h1>
+    <p id="page-text">Now you are on the About page</p>
+</div>
 
-  <?php require ("./partials/footer.php") ?>
+<?php require BASE_PATH . '/views/partials/footer.php'; ?>
