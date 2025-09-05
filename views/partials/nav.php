@@ -11,6 +11,7 @@
             <ul class="navbar-nav me-auto mb-2 mb-lg-0">
                 <li class="nav-item"><a class="nav-link active" href="/LEARNING/" onclick="loadPage('index')">Home</a></li>
                 <li class="nav-item"><a class="nav-link" href="/LEARNING/about" onclick="loadPage('about')">About</a></li>
+                <li class="nav-item"><a class="nav-link" href="/LEARNING/notes" onclick="loadPage('notes')">Notes</a></li>
                 <li class="nav-item"><a class="nav-link" href="/LEARNING/contact" onclick="loadPage('contact')">Contact</a></li>
             </ul>
 

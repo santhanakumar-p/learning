@@ -15,6 +15,9 @@
             } else if (page === "contact") {
                 title.innerText = "Contact";
                 text.innerText = "Now you are on the Contact Us!";
+            }else if (page === "notes") {
+                title.innerText = "Notes";
+                text.innerText = "Now you are on the Notes Us!";
             }
         }
     </script>
